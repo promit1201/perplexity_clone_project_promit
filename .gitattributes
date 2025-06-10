@@ -1,0 +1,2 @@
+server/perpenv/lib/site-packages/torch/lib/*.dll filter=lfs diff=lfs merge=lfs -text
+server/perpenv/lib/site-packages/torch/lib/*.lib filter=lfs diff=lfs merge=lfs -text
