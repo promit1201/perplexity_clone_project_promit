@@ -1,2 +1,19 @@
 .env
 venv/
+# Ignore Python cache files
+__pycache__/
+# Ignore compiled Python files
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore logs
+logs/
+# Ignore coverage reports
+coverage.xml
+# Ignore virtual environment directories
+# Ignore IDE specific files
+.idea/
+# Ignore Python egg files
+*.egg
+server/perpenv/Lib/site-packages/torch/lib/dnnl.lib
+server/perpenv/Lib/site-packages/torch/lib/torch_cpu.dll
