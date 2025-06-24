@@ -17,3 +17,4 @@ coverage.xml
 *.egg
 server/perpenv/Lib/site-packages/torch/lib/dnnl.lib
 server/perpenv/Lib/site-packages/torch/lib/torch_cpu.dll
+perpenv/
