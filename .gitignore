@@ -47,5 +47,9 @@ app.*.map.json
 .vercel
 ".fvmnc" 
 ".zshrc" 
-"server/Proofile"  "android/app/google-services.json" 
+"server/Procfile"  "android/app/google-services.json" 
+"server/perpenv/" 
+"server/perpenv/" 
+"server/perpenv/lib/site-packages/torch/lib/*.lib" 
+"server/perpenv/lib/site-packages/torch/lib/*.dll" 
 "server/perpenv/" 
