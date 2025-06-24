@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "27457892039",
+    "project_id": "perplexity-clone-promit-1",
+    "storage_bucket": "perplexity-clone-promit-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27457892039:android:0efd8e9906981a49da18e2",
+        "android_client_info": {
+          "package_name": "com.example.perplexity_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27457892039-aa9h0ivf0s8l64ba4cnqlgp4hsnhpcn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnnzsJ7a-J0VMsVFDILV5sTH10IvO8UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27457892039-aa9h0ivf0s8l64ba4cnqlgp4hsnhpcn1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27457892039-5ekjrl61i4e3lngqjc6ne9djsdej8e80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.perplexityClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
