@@ -3,3 +3,4 @@ server/perpenv/Lib/site-packages/torch/lib/dnnl.lib filter=lfs diff=lfs merge=lf
 *.lib filter=lfs diff=lfs merge=lfs -text
 server/perpenv/lib/site-packages/torch/lib/*.dll filter=lfs diff=lfs merge=lfs -text
 server/perpenv/lib/site-packages/torch/lib/*.lib filter=lfs diff=lfs merge=lfs -text
+server/perpenv/lib/site-packages/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -text
