@@ -48,3 +48,4 @@ app.*.map.json
 ".fvmnc" 
 ".zshrc" 
 "server/Proofile"  "android/app/google-services.json" 
+"server/perpenv/" 
